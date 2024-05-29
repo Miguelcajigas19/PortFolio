@@ -6,7 +6,6 @@ import SurfacePro2 from "../components/SurfacePro2";
 import SurfacePro1 from "../components/SurfacePro1";
 import SurfacePro from "../components/SurfacePro";
 
-const Article: FunctionComponentArticleType = () => {
 const Article: FunctionComponent = () => {
   return (
     <div className="w-full relative bg-azure-400 overflow-hidden flex flex-col items-start justify-start pt-[68px] px-0 pb-0 box-border leading-[normal] tracking-[normal]">
